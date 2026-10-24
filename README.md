@@ -1,4 +1,4 @@
-# Resource-Efficient 2-DoF Vision-based Target Tracking
+# Physics-Informed Vision-Based Target Tracking: Dynamic ROI, Adaptive Noise Modeling, and Sensor-Only Evaluation
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Download Paper PDF](https://img.shields.io/badge/Download-Paper_PDF-blue.svg)](#) *(Note: Temporary placeholder link)*
