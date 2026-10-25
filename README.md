@@ -12,6 +12,7 @@ Visual target tracking in agile robotics is often limited by strict Size, Weight
 
 *   **System Simulation:**
     * [Simulation Youtube Video Link](https://www.youtube.com/watch?v=0KLxBMH--0o)
+
 *   **System Architecture:** 
     ![Architecture Diagram](manuscript/architecture_diagram.png) 
 *   **System Demo:**
