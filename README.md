@@ -18,7 +18,7 @@ Visual target tracking in agile robotics is often limited by strict Size, Weight
 
 *   **System Demo:**
 
-    <video src="manuscript/system_demo_gif.mp4" autoplay loop muted playsinline width="100%"></video>
+    <video src="https://github.com/user-attachments/assets/e7f4e919-4f5a-4130-b415-05608483b141" autoplay loop muted playsinline width="100%"></video>
 
 ## Related Work & Code
 This manuscript relies on the ROS2 workspace and algorithms implemented in the following repository:
